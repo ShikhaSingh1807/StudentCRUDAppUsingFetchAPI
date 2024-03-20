@@ -1,0 +1,22 @@
+{
+  "name": "studentcrudapp",
+  "version": "1.0.0",
+  "description": "This is a project showing demo of Fetch API and creating StudentCrud APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fetch",
+    "Api",
+    "bootstrap",
+    "Html",
+    "CSS",
+    "JS"
+  ],
+  "author": "Shikha Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
